@@ -1,0 +1,2 @@
+local player = game.Players.LocalPlayer
+player:Kick("VIP ONLY nih kontol kalo mau script op kaya dupe hack money inf apalah kontol dll,ya harus VIP mek")
